@@ -1,10 +1,8 @@
 # 💻Augusto Junior
 
-**`Desenvolvedor Front-end | FullStack em evolução`**
+**`Desenvolvedor FullStack`**
 
-Me chamo **Augusto Júnior**, desenvolvedor de software, formado em **Análise e Desenvolvimento de Sistemas** e natural de **Alagoas**.  
-Gosto de transformar ideias em **interfaces simples, funcionais e bem pensadas**, com foco em **experiência do usuário**, organização de código e projetos que resolvem problemas reais.
-
+Me chamo **Augusto Júnior**, desenvolvedor de software, formado em **Análise e Desenvolvimento de Sistemas** e natural de **Alagoas**.
 Atualmente estudo e desenvolvo soluções envolvendo **front-end moderno**, **automações**, **sistemas web** e **produtos digitais**, sempre buscando clareza, constância e evolução técnica.
 
 <p align="left">
