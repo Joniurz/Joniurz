@@ -32,13 +32,6 @@ Atualmente desenvolvo soluções focadas em **front-end moderno**, **automaçõe
 
 ---
 
-### 📌 Projetos em Destaque
-
-- 🔹 **[Nome do Projeto 1](link-do-repositorio)** - Breve descrição do projeto e problema que ele resolve. *(Techs usadas)*
-- 🔹 **[Nome do Projeto 2](link-do-repositorio)** - Breve descrição do projeto e problema que ele resolve. *(Techs usadas)*
-
----
-
 ### 📊 Estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joniurz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
