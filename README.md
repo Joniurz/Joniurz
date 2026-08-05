@@ -1,127 +1,47 @@
-# 💻Augusto Junior
+# 💻 Augusto Junior
 
 **`Desenvolvedor FullStack`**
 
-Me chamo **Augusto Júnior**, desenvolvedor de software, formado em **Análise e Desenvolvimento de Sistemas** e natural de **Alagoas**.
-Atualmente estudo e desenvolvo soluções envolvendo **front-end moderno**, **automações**, **sistemas web** e **produtos digitais**, sempre buscando clareza, constância e evolução técnica.
+Me chamo **Augusto Júnior**, desenvolvedor de software formado em **Análise e Desenvolvimento de Sistemas** e natural de **Alagoas**.  
+Atualmente desenvolvo soluções focadas em **front-end moderno**, **automações**, **sistemas web** e **produtos digitais**, buscando clareza, constância e evolução técnica.
 
 <p align="left">
-    <a href="https://github.com/AugustoJunior?tab=followers">
-        <img 
-            alt="Seguidores no GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AugustoJunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/joseaugustojunior/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/jraugustto">
-        <img 
-            alt="Instagram" 
-            title="Meu Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/Joniurz?tab=followers">
+    <img alt="Seguidores no GitHub" src="https://img.shields.io/github/followers/Joniurz?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba&label=Seguidores" />
+  </a>
+  <a href="https://www.linkedin.com/in/joseaugustojunior/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jraugustto" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
+---
 
 ### 🚀 Linguagens & Tecnologias
 
-<img
-    align="left"
-     alt="HTML"
-     title="HTML"
-     width="30px"
-     style="padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-<img align="left"
-    alt="Tailwind CSS"
-    title="Tailwind CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-          
-<img align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<br/>
-<br/>
+---
+
+### 📌 Projetos em Destaque
+
+- 🔹 **[Nome do Projeto 1](link-do-repositorio)** - Breve descrição do projeto e problema que ele resolve. *(Techs usadas)*
+- 🔹 **[Nome do Projeto 2](link-do-repositorio)** - Breve descrição do projeto e problema que ele resolve. *(Techs usadas)*
+
+---
 
 ### 📊 Estatísticas
 
-<img 
-    align="left"
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AugustoJunior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joniurz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joniurz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joniurz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Top Techs" />
+</p>
