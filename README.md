@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:236ad3&height=200&section=header&text=Augusto%20J%C3%BAnior&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
   
-  <h3>⚡ FullStack Developer | Front-end & Automações ⚡</h3>
+  <h3>FullStack Developer</h3>
 
   <p align="center">
     <a href="https://github.com/Joniurz?tab=followers">
