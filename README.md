@@ -36,6 +36,6 @@ Atualmente desenvolvo soluções focadas em **front-end moderno**, **automaçõe
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joniurz&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
-![Estatísticas do GitHub](https://github-readme-stats-eight-the.vercel.app/api?username=Joniurz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats-eight-the.vercel.app/api?username=Joniurz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats-eight-the.vercel.app/api?username=Joniurz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
 ![Linguagens mais usadas](https://github-readme-stats-eight-the.vercel.app/api/top-langs/?username=Joniurz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8)
