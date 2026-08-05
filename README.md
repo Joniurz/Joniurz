@@ -41,7 +41,7 @@ Atualmente desenvolvo soluções focadas em **front-end moderno**, **automaçõe
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joniurz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joniurz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Top Techs" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joniurz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![Top Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joniurz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joniurz&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
